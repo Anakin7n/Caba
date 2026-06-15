@@ -20,7 +20,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Brightness — 发现你的下一个产品灵感",
+  title: "Caba — 发现你的下一个产品灵感",
   description: "用苏格拉底式提问，引导你发现自己真正想做的产品。",
 };
 

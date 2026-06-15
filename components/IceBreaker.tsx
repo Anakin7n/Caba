@@ -17,7 +17,7 @@ export function IceBreaker() {
         className="mb-10 text-center"
       >
         <h1 className="mb-3 text-4xl font-bold tracking-tight text-zinc-900">
-          Brightness
+          Caba
         </h1>
         <p className="text-base text-zinc-500">
           灵感不会凭空出现，但可以被引导出来。
